@@ -1,4 +1,4 @@
-# Data-Mining---Wave-Height-Prediction
+# Data-Mining & EMM: Wave-Height-Prediction
 Group Project for EMM Group 3 
 
 [Report Link Overleaf](https://www.overleaf.com/7341144173nwmdnfbcvbpn#0e3392)

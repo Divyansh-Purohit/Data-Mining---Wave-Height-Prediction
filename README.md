@@ -3,8 +3,6 @@ Group Project for EMM Group 3
 
 [Report Link Overleaf](https://www.overleaf.com/7341144173nwmdnfbcvbpn#0e3392)
 
-Dataset: NDBC Station 51101 from 2013 to 2017
-
 Overview
 
 A significant portion of global trade and industrial activity relies on maritime operations, including shipping, oil extraction, and naval logistics. Accurate wave height prediction is therefore critical for ensuring the safety, efficiency, and scheduling of offshore activities. However, despite major advances in data-driven forecasting, predicting ocean dynamics remains a challenging time series problem due to their non-stationary and highly context-dependent nature.

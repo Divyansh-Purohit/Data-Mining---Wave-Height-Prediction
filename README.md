@@ -1,7 +1,5 @@
-# Data-Mining: EMM on Wave-Height-Prediction
-Group Project for EMM Group 3 
-
-[Report Link: Overleaf](https://www.overleaf.com/7341144173nwmdnfbcvbpn#0e3392)
+# EMM on Ocean Wave Height Prediction
+Group Project
 
 Overview
 
